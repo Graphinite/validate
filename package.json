@@ -1,7 +1,7 @@
 {
   "name": "@graphinite/validate",
   "private": false,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Hold types validation functions for Graphinite API inputs and outputs",
   "main": "./dist/node/index.js",
   "browser": "./dist/node/index.js",
